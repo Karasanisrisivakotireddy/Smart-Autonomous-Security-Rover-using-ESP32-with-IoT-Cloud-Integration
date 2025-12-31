@@ -1,1 +1,2 @@
-# Smart-Autonomous-Security-Rover-using-ESP32-with-IoT-Cloud-Integration
+This project is an ESP32-based smart security rover built using Arduino, designed for autonomous patrolling and real-time monitoring. It integrates multiple sensors — including PIR for intruder detection, ultrasonic for obstacle avoidance, and DHT22 for temperature & humidity — along with a servo scanner, RGB status LED, buzzer, and LCD display. The rover navigates on its own, detects intruders, alerts locally, and uploads live data to ThingSpeak using Wi-Fi. A push button lets you pause and resume the rover at any time. You can view and simulate the project on Wokwi here:
+👉 https://wokwi.com/projects/446077721207014401
